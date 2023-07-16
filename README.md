@@ -1,7 +1,7 @@
 # Stock_Analysis
 ### The aim of this project is to create a stock analysis dashboard using Python and Streamlit, leveraging various Python libraries for data analysis and visualization.
 
-# Python libraries used in your code:
+# Python libraries used:
 
 #### streamlit: A framework for building interactive web applications with Python.
 #### pandas: A powerful data manipulation library for data analysis and manipulation.
