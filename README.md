@@ -6,6 +6,8 @@
 #### streamlit run app.py
 #### If the libraries are not installed run the below command
 #### pip install streamlit pandas numpy yfinance plotly datetime
+#### To install the required libraries, run `pip install streamlit pandas numpy yfinance plotly datetime`.
+
 
 
 # Python libraries used:
