@@ -1,6 +1,13 @@
 # STOCK ANALYSIS DASHBOARD
 ### The aim of this project is to create a stock analysis dashboard using Python and Streamlit, leveraging various Python libraries for data analysis and visualization.
 
+# Steps to run this
+#### Run the below command
+#### streamlit run app.py
+#### If the libraries are not installed run the below command
+#### pip install streamlit pandas numpy yfinance plotly datetime
+
+
 # Python libraries used:
 
 ### streamlit: A framework for building interactive web applications with Python.
