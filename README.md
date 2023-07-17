@@ -5,6 +5,9 @@
 #### To install the required libraries, run `pip install -r requirements.txt`.
 #### To start the application, run `streamlit run app.py`.
 
+# Link to the website hosted on streamlit sharing
+#### https://stockanalytics.streamlit.app/
+
 # Python libraries used:
 
 ### streamlit: A framework for building interactive web applications with Python.
