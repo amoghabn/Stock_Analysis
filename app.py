@@ -14,8 +14,8 @@ end_date = st.sidebar.date_input('End Date', value=datetime.date.today())
 data = yf.download(ticker, start=start_date, end=end_date)
 fig = px.line(data, x = data.index, y=data['Adj Close'], title = ticker)
 fig.update_layout(
-    xaxis_title='Adj Close ($)',
-    yaxis_title='Date',
+    xaxis_title='Date',
+    yaxis_title='Adj Close ($)',
 )
 st.plotly_chart(fig)
 
